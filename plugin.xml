@@ -40,14 +40,14 @@
     <framework src="libz.tbd" />
     <framework src="libxml2.tbd" />
 
-    <podspec>
+<!--     <podspec>
       <config>
         <source url="https://github.com/CocoaPods/Specs.git"/>
       </config>
       <pods use-frameworks="true">
         <pod name="GCDWebServer" spec="~> 3.5.2"/>
       </pods>
-    </podspec>
+    </podspec> -->
     
     <!-- GCDWebserver -->
     <header-file src="src/ios/GCDWebServer-Bridging-Header.h" type="BridgingHeader"/>
